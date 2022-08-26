@@ -24,13 +24,14 @@
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Luiz-lab&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<div align="center">
+<p align="center">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Luiz-lab&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a>
 <img height="196em" src="https://github-readme-stats.vercel.app/api?username=Luiz-lab&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-
   <a href="https://github.com/Luiz-lab">
    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-lab&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>  
-</div>
+</p>
+
+
   <!--
 
 **Luiz-lab/Luiz-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
