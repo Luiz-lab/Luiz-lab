@@ -4,8 +4,7 @@
 
 <div>
 <p align="center">
-<a href="your-linkedin-URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+<a href="[your-linkedin-URL](https://www.linkedin.com/in/luiz-henrique-calixto-de-souza-29b892170)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="https://twitter.com/LuizCalixto18?t=9MWKNtUOtXdIZO1PPAGPhQ&s=08"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 <br>
 <a><img src="https://komarev.com/ghpvc/?username=Luiz-lab&style=flat-square&color=blue"  alt=""/></a>
